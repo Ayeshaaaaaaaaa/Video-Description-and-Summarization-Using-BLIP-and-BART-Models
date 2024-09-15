@@ -31,3 +31,7 @@ Both models are loaded into memory and moved to the appropriate device (GPU if a
 **Summarization:** The combined text of frame descriptions is fed into the BART model. The model processes the text and generates a concise summary. The summary is printed out as the final description of the video.<br>
 ![image](https://github.com/user-attachments/assets/38ef7abb-fa92-4637-8e19-2854ae310059)<br>
 
+## Output:
+![image](https://github.com/user-attachments/assets/06c42ed9-6886-4f49-95ea-15ce9e3e1f31)<br>
+![image](https://github.com/user-attachments/assets/e06bc6cb-9c1a-4b0c-a655-88286cf3a06e)
+
